@@ -1,0 +1,1 @@
+[{"id":"f662f97b.a70988","type":"ui_toast","z":"9fb8cd89.0eaaf","position":"top right","displayTime":"3","highlight":"","sendall":true,"outputs":0,"ok":"OK","cancel":"","raw":false,"topic":"Temperature is too low !!!","name":"","x":810,"y":460,"wires":[]}]

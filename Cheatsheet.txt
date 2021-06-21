@@ -1,0 +1,10 @@
+Organization ID = XXXXXX
+
+Device information:
+device_type = 
+device_id = 
+device_auth_token = 
+
+API Information:
+api_key = 
+api_auth_token = 
