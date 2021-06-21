@@ -62,7 +62,7 @@ Go to your Node-Red application from this link:
 
 Do the initial setup and go to the flow editor, click on the Manage Pallete:
 
-![getsensor](./images/getsensor.png)
+![managepalette](./images/managepalette.png)
 
 Go to Install and copy the packages below:
 - node-red-contrib-scx-ibmiotapp
