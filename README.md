@@ -83,3 +83,10 @@ Click on the Import:
 Copy the flows.json and paste it:
 
 ![pasteflow](./images/pasteflow.png)
+
+## More tutorials
+
+Turn your smartphone into an IoT device: https://developer.ibm.com/technologies/iot/tutorials/iot-mobile-phone-iot-device-bluemix-apps-trs/
+
+Build a cognitive IoT app in just 7 steps: https://developer.ibm.com/technologies/iot/tutorials/iot-cognitive-iot-app-machine-learning/
+
