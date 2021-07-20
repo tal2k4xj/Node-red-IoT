@@ -2,7 +2,7 @@
 
 ## Register to IBM Cloud
 
-https://ibm.biz/Bdfvp7
+https://ibm.biz/BdfvhX 
 
 ## Tutorial link
 

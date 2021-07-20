@@ -1,12 +1,12 @@
-Organization ID = XXXXXX
+Organization ID = dr5zq2
 
 Device information:
-device_type =
-device_id =
-device_auth_token =
+device_type = taltempsensor
+device_id = taltempdevice
+device_auth_token = 12345678
 
 API Information:
-api_key = 
-api_auth_token = 
+api_key = a-dr5zq2-slndp4wv9e
+api_auth_token = IZig0Umlpa8i@RSYvK
 
-Servername = OrgID.messaging.internetofthings.ibmcloud.com
+Servername = dr5zq2.messaging.internetofthings.ibmcloud.com
